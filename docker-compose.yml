@@ -24,3 +24,4 @@ networks:
   proznanie_net:
     name: proznanie_net
     driver: bridge
+    external: true
